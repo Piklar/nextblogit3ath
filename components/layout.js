@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Ernz Danielle D. Manalo';
+const name = 'Ernz Danielle Manalo';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {

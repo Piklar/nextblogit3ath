@@ -18,7 +18,7 @@ export default function Home() {
           <ul>
             <li>Eating
               <p>
-                I love eating. It makes my life happy! Yay!
+                I love eating. It makes my life happy! Yay!!!
               </p>
             </li>
 

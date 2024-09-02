@@ -46,7 +46,7 @@ export default function Home() {
 
           <h3>Favorite Food</h3>
           <p>
-            My Favorite food is Pork Tonkatsu.
+            My Favorite food is Pork Tonkatsu. Matcha Latte is the best beverage for me.
           </p>
 
           <hr></hr>

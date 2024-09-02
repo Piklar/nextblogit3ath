@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p align="center">Hello, My Name is Ernz Danielle Manalo.<br></br> I am 21 Years Old.<br></br> I live at Mexico, Pampanga.<br></br> I am currently a 3rd year IT Student studying at <br></br>University of the Assumption. </p>
+        <p align="center">Hello, My Name is Ernz Danielle Manalo.<br></br> I am 21 Years Old. I am very old!<br></br> I live at Mexico, Pampanga.<br></br> I am currently a 3rd year IT Student studying at <br></br>University of the Assumption. </p>
         
         <hr></hr>
         <h3>
